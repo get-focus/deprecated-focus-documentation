@@ -6,8 +6,7 @@
     "scripts": {
         "build": "gitbook build",
         "clean": "rimraf _book",
-        "start": "gitbook serve",
-        "publish": "npm run clean && npm run build && cd _book && git init && git checkout -b gh-pages && git add . && git commit -m 'update book' && git push git@github.com:get-focus/focus-documentation.git gh-pages --force"
+        "start": "gitbook serve"
     },
     "repository": {
         "type": "git",
