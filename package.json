@@ -1,0 +1,28 @@
+{
+    "name": "focus-documentation",
+    "version": "1.0.0",
+    "description": "Documentation about how to use focus-application focus-graph focus-components and focus-search to build single page applications.",
+    "main": "index.js",
+    "scripts": {
+        "build": "gitbook build",
+        "clean": "rimraf _book",
+        "start": "gitbook serve"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/get-focus/focus-documentation.git"
+    },
+    "keywords": [
+        "focus",
+        "v3",
+        "react",
+        "redux",
+        "react-router"
+    ],
+    "author": "FOCUS <focus@kleegroup.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/get-focus/focus-documentation/issues"
+    },
+    "homepage": "https://github.com/get-focus/focus-documentation#readme"
+}
