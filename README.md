@@ -1,2 +1,15 @@
-# focus-documentation
-Documentation about how to use focus-application focus-graph focus-components and focus-search to build single page applications.
+<div style="text-align:center;">
+    <img src="/images/mascotte.jpg" />
+</div>
+
+
+# FOCUS v3 : la documentation
+
+## Bienvenue
+Bienvenue dans la documentation de FOCUS v3.
+
+[INTRODIURE LE PKOI DES LIBS]
+
+## Sommaire
+
+!INCLUDE "SUMMARY.md"

@@ -1,0 +1,11 @@
+/*ul.summary > li[data-level] > ul li[data-level] {
+    display: none;
+}
+
+ul.summary li[data-path$="focus-application/"],
+ul.summary li[data-path$="focus-components/"],
+ul.summary li[data-path$="focus-graph/"],
+ul.summary li[data-path$="focus-search/"]
+{
+    display: block !important;
+}*/

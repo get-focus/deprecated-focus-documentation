@@ -1,0 +1,22 @@
+{
+    "gitbook": ">=2.0.0",
+    "title": "Focus-Docs",
+    "description": "Guide Focus.",
+    "language": "fr",
+    "plugins" : [
+        "addcssjs",
+        "emphasize",
+        "github",
+        "include",
+        "include-highlight",
+        "page-toc"
+    ],
+    "pluginsConfig": {
+        "addcssjs": {
+            "css": ["css/custom.css"]
+        },
+        "github": {
+            "url": "https://github.com/get-focus/"
+        }
+    }
+}
