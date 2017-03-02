@@ -5,7 +5,6 @@
 
 # FOCUS v3 : la documentation
 
-## Bienvenue
 Bienvenue dans la documentation de FOCUS v3.
 
 [INTRODIURE LE PKOI DES LIBS]
